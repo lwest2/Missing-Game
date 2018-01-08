@@ -13,4 +13,7 @@ Stone - https://us.123rf.com/450wm/ongpruksar/ongpruksar1706/ongpruksar170600046
 Keyhole - https://openclipart.org/image/2400px/svg_to_png/178281/Keyhole.png
 Pavement - https://i.pinimg.com/originals/0d/74/be/0d74be130bab1bdcb4857be2d6fb79ee.jpg
 Road - https://i.pinimg.com/736x/d3/e1/b5/d3e1b5069b98cbd0b9a4ef4d42ca0ead--stone-texture-seamless-stone-material.jpg
-
+Tree - https://i.pinimg.com/originals/0d/d7/f2/0dd7f20dc25cd497636f91dd065537fa.jpg
+LongGrass_01 - https://atlas-content-cdn.pixelsquid.com/assets_v2/10/1080642925936776572/jpeg-600/G03.jpg?modifiedAt=1
+LongGrass_02 - http://www.mokshalifestyle.com/uploads/citronella.jpg
+Bush_01 - http://www.freepngimg.com/download/bush/5-bush-png-image.png
