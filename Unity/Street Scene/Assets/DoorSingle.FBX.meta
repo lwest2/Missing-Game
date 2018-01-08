@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 93a3130047ebede44bfb6a3d05d52e13
+timeCreated: 1515360478
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Beams_Horizontal004
+    100002: Beams_Vertical_Rectangle002
+    100004: Door
+    100006: Door_02_single
+    100008: Door_Frame005
+    100010: DoorHandle_Base
+    100012: DoorHandle_handl
+    100014: //RootNode
+    100016: Hinge_004
+    100018: Hinge_005
+    100020: Hinge_03
+    100022: KeyHole
+    100024: Knocker_Base
+    100026: Knocker_Base_02
+    100028: Knocker_Handle
+    100030: Stone_Base004
+    100032: Wall_004
+    400000: Beams_Horizontal004
+    400002: Beams_Vertical_Rectangle002
+    400004: Door
+    400006: Door_02_single
+    400008: Door_Frame005
+    400010: DoorHandle_Base
+    400012: DoorHandle_handl
+    400014: //RootNode
+    400016: Hinge_004
+    400018: Hinge_005
+    400020: Hinge_03
+    400022: KeyHole
+    400024: Knocker_Base
+    400026: Knocker_Base_02
+    400028: Knocker_Handle
+    400030: Stone_Base004
+    400032: Wall_004
+    2300000: Beams_Horizontal004
+    2300002: Beams_Vertical_Rectangle002
+    2300004: Door_02_single
+    2300006: Door_Frame005
+    2300008: DoorHandle_Base
+    2300010: DoorHandle_handl
+    2300012: Hinge_004
+    2300014: Hinge_005
+    2300016: Hinge_03
+    2300018: KeyHole
+    2300020: Knocker_Base
+    2300022: Knocker_Base_02
+    2300024: Knocker_Handle
+    2300026: Stone_Base004
+    2300028: Wall_004
+    3300000: Beams_Horizontal004
+    3300002: Beams_Vertical_Rectangle002
+    3300004: Door_02_single
+    3300006: Door_Frame005
+    3300008: DoorHandle_Base
+    3300010: DoorHandle_handl
+    3300012: Hinge_004
+    3300014: Hinge_005
+    3300016: Hinge_03
+    3300018: KeyHole
+    3300020: Knocker_Base
+    3300022: Knocker_Base_02
+    3300024: Knocker_Handle
+    3300026: Stone_Base004
+    3300028: Wall_004
+    4300000: Hinge_004
+    4300002: Hinge_03
+    4300004: Hinge_005
+    4300006: Beams_Horizontal004
+    4300008: Stone_Base004
+    4300010: Door_Frame005
+    4300012: Wall_004
+    4300014: Beams_Vertical_Rectangle002
+    4300016: Door_02_single
+    4300018: Knocker_Handle
+    4300020: Knocker_Base_02
+    4300022: Knocker_Base
+    4300024: KeyHole
+    4300026: DoorHandle_handl
+    4300028: DoorHandle_Base
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

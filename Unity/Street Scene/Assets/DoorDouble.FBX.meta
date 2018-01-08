@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: e3bb6f5b2a96b344f9ae4e1352bf5d76
+timeCreated: 1515360525
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Beams_Horizontal005
+    100002: Beams_Vertical_Rectangle003
+    100004: Door
+    100006: Door 1
+    100008: Door_02_single001
+    100010: Door_02_single002
+    100012: Door_Frame006
+    100014: //RootNode
+    100016: DoorHandle_Base001
+    100018: DoorHandle_Base002
+    100020: DoorHandle_handl001
+    100022: DoorHandle_handl002
+    100024: Hinge_006
+    100026: Hinge_007
+    100028: Hinge_008
+    100030: Hinge_009
+    100032: Hinge_010
+    100034: Hinge_011
+    100036: KeyHole001
+    100038: Knocker_Base001
+    100040: Knocker_Base002
+    100042: Knocker_Base_003
+    100044: Knocker_Base_004
+    100046: Knocker_Handle001
+    100048: Knocker_Handle002
+    100050: Stone_Base005
+    100052: Wall_005
+    400000: Beams_Horizontal005
+    400002: Beams_Vertical_Rectangle003
+    400004: Door
+    400006: Door 1
+    400008: Door_02_single001
+    400010: Door_02_single002
+    400012: Door_Frame006
+    400014: //RootNode
+    400016: DoorHandle_Base001
+    400018: DoorHandle_Base002
+    400020: DoorHandle_handl001
+    400022: DoorHandle_handl002
+    400024: Hinge_006
+    400026: Hinge_007
+    400028: Hinge_008
+    400030: Hinge_009
+    400032: Hinge_010
+    400034: Hinge_011
+    400036: KeyHole001
+    400038: Knocker_Base001
+    400040: Knocker_Base002
+    400042: Knocker_Base_003
+    400044: Knocker_Base_004
+    400046: Knocker_Handle001
+    400048: Knocker_Handle002
+    400050: Stone_Base005
+    400052: Wall_005
+    2300000: Beams_Horizontal005
+    2300002: Beams_Vertical_Rectangle003
+    2300004: Door_02_single001
+    2300006: Door_02_single002
+    2300008: Door_Frame006
+    2300010: DoorHandle_Base001
+    2300012: DoorHandle_Base002
+    2300014: DoorHandle_handl001
+    2300016: DoorHandle_handl002
+    2300018: Hinge_006
+    2300020: Hinge_007
+    2300022: Hinge_008
+    2300024: Hinge_009
+    2300026: Hinge_010
+    2300028: Hinge_011
+    2300030: KeyHole001
+    2300032: Knocker_Base001
+    2300034: Knocker_Base002
+    2300036: Knocker_Base_003
+    2300038: Knocker_Base_004
+    2300040: Knocker_Handle001
+    2300042: Knocker_Handle002
+    2300044: Stone_Base005
+    2300046: Wall_005
+    3300000: Beams_Horizontal005
+    3300002: Beams_Vertical_Rectangle003
+    3300004: Door_02_single001
+    3300006: Door_02_single002
+    3300008: Door_Frame006
+    3300010: DoorHandle_Base001
+    3300012: DoorHandle_Base002
+    3300014: DoorHandle_handl001
+    3300016: DoorHandle_handl002
+    3300018: Hinge_006
+    3300020: Hinge_007
+    3300022: Hinge_008
+    3300024: Hinge_009
+    3300026: Hinge_010
+    3300028: Hinge_011
+    3300030: KeyHole001
+    3300032: Knocker_Base001
+    3300034: Knocker_Base002
+    3300036: Knocker_Base_003
+    3300038: Knocker_Base_004
+    3300040: Knocker_Handle001
+    3300042: Knocker_Handle002
+    3300044: Stone_Base005
+    3300046: Wall_005
+    4300000: Beams_Vertical_Rectangle003
+    4300002: Wall_005
+    4300004: Beams_Horizontal005
+    4300006: Door_Frame006
+    4300008: Hinge_006
+    4300010: Hinge_007
+    4300012: Hinge_008
+    4300014: Hinge_010
+    4300016: Hinge_009
+    4300018: Hinge_011
+    4300020: Door_02_single001
+    4300022: Knocker_Base_003
+    4300024: Knocker_Base001
+    4300026: Knocker_Handle001
+    4300028: KeyHole001
+    4300030: DoorHandle_handl001
+    4300032: DoorHandle_Base001
+    4300034: Door_02_single002
+    4300036: DoorHandle_handl002
+    4300038: DoorHandle_Base002
+    4300040: Knocker_Base_004
+    4300042: Knocker_Base002
+    4300044: Knocker_Handle002
+    4300046: Stone_Base005
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
