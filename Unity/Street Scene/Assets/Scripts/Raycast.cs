@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.SceneManagement;
 namespace China
 {
     public class Raycast : MonoBehaviour
@@ -28,6 +28,9 @@ namespace China
                     if (hit.collider.tag == "parent")
                     {
                         // WIN ANIMATION
+
+                        SceneManager.LoadScene(4);
+
                     }
                     else
                     {

@@ -5,6 +5,12 @@ using UnityEngine;
 public class LockedDoor : MonoBehaviour {
 
     [SerializeField]
+    private AudioSource m_as;
+
+    [SerializeField]
+    private AudioClip m_locked;
+
+    [SerializeField]
     private Transform m_player;
 
     private Vector3 m_heading;
@@ -16,6 +22,7 @@ public class LockedDoor : MonoBehaviour {
     void Start()
     {
         m_door = GetComponent<Transform>();
+        m_as = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -31,6 +38,8 @@ public class LockedDoor : MonoBehaviour {
             {
 
                 // Insert fadein "Locked" GUI element
+                m_as.clip = m_locked;
+                m_as.PlayOneShot(m_as.clip);
                 // Insert Locked sound effect
             }
         }

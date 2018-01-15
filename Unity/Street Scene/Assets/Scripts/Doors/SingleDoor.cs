@@ -4,6 +4,12 @@ using UnityEngine;
 
 public class SingleDoor : MonoBehaviour {
 
+    private AudioSource m_as;
+    [SerializeField]
+    private AudioClip m_close;
+    [SerializeField]
+    private AudioClip m_open;
+
     private Animator m_anim;
 
     [SerializeField]
@@ -19,6 +25,7 @@ public class SingleDoor : MonoBehaviour {
     {
         m_anim = GetComponent<Animator>();
         m_door = GetComponent<Transform>();
+        m_as = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -38,6 +45,9 @@ public class SingleDoor : MonoBehaviour {
                     // Door opens
                     m_anim.SetBool("open", true);
 
+
+                    m_as.clip = m_open;
+                    m_as.PlayOneShot(m_as.clip);
                     // door open sound effect
                 }
                 else
@@ -45,6 +55,8 @@ public class SingleDoor : MonoBehaviour {
                     // Door closes
                     m_anim.SetBool("open", false);
 
+                    m_as.clip = m_close;
+                    m_as.PlayOneShot(m_as.clip);
                     // door close sound effect
                 }
             }

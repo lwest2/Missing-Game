@@ -9,6 +9,7 @@ TagManager:
   - picture
   - countdown
   - crosshair
+  - menumusic
   layers:
   - Default
   - TransparentFX

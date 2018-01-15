@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 namespace China
 {
@@ -63,7 +64,10 @@ namespace China
 
             if(m_image.fillAmount <= 0)
             {
-                // KIDNAP ANIMATION
+
+                SceneManager.LoadScene(5);
+
+                
             }
             yield return null;
         }
