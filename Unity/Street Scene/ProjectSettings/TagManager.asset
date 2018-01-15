@@ -7,6 +7,8 @@ TagManager:
   - NPC
   - parent
   - picture
+  - countdown
+  - crosshair
   layers:
   - Default
   - TransparentFX
